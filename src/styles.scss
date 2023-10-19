@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+html, body{
+  height: 100%;
+  background-color: aliceblue;
+  background-image: url("./assets/pop-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
